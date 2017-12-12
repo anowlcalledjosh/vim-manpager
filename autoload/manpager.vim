@@ -143,7 +143,7 @@ let s:default_settings = {
       \ 'man_executable': has('mac') ? 'man -P cat' : 'man --pager=',
       \ 'man_sect_arg': '',
       \ 'man_find_arg': '-w',
-      \ 'buffer_opener': 'new',
+      \ 'buffer_opener': 'edit',
       \ 'buffer_range': 'tabpage',
       \ 'wrapscan': 1,
       \}
