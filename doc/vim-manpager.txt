@@ -67,7 +67,6 @@ In man buffer, you can use the following keymaps
 
 *<Plug>(manpager-open)*
 K		Open the manual page for the word uner the cursor
-Enter		Open the manual page for the word uner the cursor
 Ctrl-]		Open the manual page for the word uner the cursor
 2-LeftMouse	Open the manual page for the word uner the cursor
 *<Plug>(manpager-open-next)*

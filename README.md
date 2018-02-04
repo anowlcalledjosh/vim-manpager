@@ -51,7 +51,6 @@ behavior)
 In man buffer, you can use the following keymaps
 
 - `K`		Open the manual page for the word under the cursor
-- `Enter`	Open the manual page for the word under the cursor
 - `Ctrl-]`	Open the manual page for the word under the cursor
 - `2-LeftMouse`	Open the manual page for the word under the cursor
 - `Tab`		Open next manual page in the history
